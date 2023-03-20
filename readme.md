@@ -18,7 +18,7 @@ download all the files marked first to the same folder (i.e. all the files in py
 https://drive.google.com/file/d/1XmKqX4TytutTXL2hNn3R2FAkUNF9SuVM/view?usp=sharing
 ![](overview.png)
 However, due to development time and development environment, some of the refined features were developed and tried separately,
-but did not have the opportunity to be added to the overall interface. All ipynb files are the file we used to create views。
+but did not have the opportunity to be added to the overall interface. All ipynb files are the file we used to create views.
 You can try downloading the ipynb files, 
 they can all be run alone after downloading the prerequisite. 
 
